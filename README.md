@@ -1,3 +1,5 @@
+<h1>Unity 2018 - Unity 6 Material Combiner Editor Script</h1>
+
 This Editor code provides the material merging process you need for optimization.
 
 Features:
